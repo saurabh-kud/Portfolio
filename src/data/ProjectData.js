@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://github.com/saurabh-kud/Sangeet-app/blob/master/src/Data/mockup/mockup.png",
+    img: "https://raw.githubusercontent.com/saurabh-kud/Sangeet-app/master/src/Data/mockup/mockup.png",
     title: "Sangeet-app",
     description: "created music player ui like spotify, gana",
     tech_stack: "Reactjs, Css",
