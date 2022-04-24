@@ -1,6 +1,15 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "https://github.com/saurabh-kud/Sangeet-app/blob/master/src/Data/mockup/mockup.png",
+    title: "Sangeet-app",
+    description: "created music player ui like spotify, gana",
+    tech_stack: "Reactjs, Css",
+    github_url:
+      "https://github.com/saurabh-kud/Portfolihttps://github.com/saurabh-kud/Sangeet-app",
+    demo_url: "https://sangeet-app.netlify.app/",
+  },
+  {
     img: "https://raw.githubusercontent.com/saurabh-kud/Site_Image/master/Banking.png",
     title: "Banking web app frontend",
     description: "created simple banking web app frontend",

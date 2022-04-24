@@ -7,6 +7,7 @@ import {
   Stack,
   BtnGroup,
 } from "./ProjectCardElements";
+console.log(ProjectList);
 function ProjectCard() {
   return (
     <>
