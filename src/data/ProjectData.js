@@ -1,6 +1,22 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "https://raw.githubusercontent.com/saurabh-kud/Pizza-App/main/public/mockup.png",
+    title: "Pizza-app",
+    description: "created Ecommerce Pizza ordering web app",
+    tech_stack: "Reactjs, talwind-css, React, Rest-Api, Context-Api",
+    github_url: "https://github.com/saurabh-kud/Pizza-App",
+    demo_url: "https://pizza-ap.netlify.app/",
+  },
+  {
+    img: "https://raw.githubusercontent.com/saurabh-kud/Notes-app/master/public/mockup.png",
+    title: "Keeper-app",
+    description: "google keep clone using React",
+    tech_stack: "Reactjs, Talwind-css, React-Router-Dom, Local-Storage",
+    github_url: "https://github.com/saurabh-kud/Notes-app",
+    demo_url: "https://keeper-ap.netlify.app/",
+  },
+  {
     img: "https://raw.githubusercontent.com/saurabh-kud/Sangeet-app/master/src/Data/mockup/mockup.png",
     title: "Sangeet-app",
     description: "created music player ui like spotify, gana",
@@ -16,14 +32,7 @@ export const ProjectList = [
     github_url: "https://github.com/saurabh-kud/Contact-app",
     demo_url: "https://contact-manager-ap.netlify.app/",
   },
-  {
-    img: "https://raw.githubusercontent.com/saurabh-kud/Notes-app/master/public/mockup.png",
-    title: "Keeper-app",
-    description: "google keep clone using React",
-    tech_stack: "Reactjs, Talwind-css, React-Router-Dom, Local-Storage",
-    github_url: "https://github.com/saurabh-kud/Notes-app",
-    demo_url: "https://keeper-ap.netlify.app/",
-  },
+  
   {
     img: "https://raw.githubusercontent.com/saurabh-kud/Site_Image/master/portfolio.png",
     title: "Portfolio",
