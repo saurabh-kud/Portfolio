@@ -1,6 +1,15 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "https://raw.githubusercontent.com/saurabh-kud/Site_Image/master/leave.png",
+    title: "Lpu-Leave-Automation",
+    description:
+      "Made a Automation and launch a website to take leave from lpu ums withing second ",
+    tech_stack: "Node, Puppeter, AWS, Express, React",
+    github_url: "https://github.com/lpuleave/lpuleave.github.io",
+    demo_url: "https://lpuleave.me/",
+  },
+  {
     img: "https://raw.githubusercontent.com/saurabh-kud/Sangeet-app/master/src/Data/mockup/mockup.png",
     title: "Sangeet-app",
     description: "created music player ui like spotify, gana",
